@@ -1,4 +1,3 @@
-# visitor-management-vue
 
 ## Project setup
 ```
