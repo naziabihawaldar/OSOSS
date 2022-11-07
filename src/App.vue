@@ -3,7 +3,7 @@
     <div >
     <v-toolbar :clipped-left="$vuetify.breakpoint.lgAndUp" class="cstm_toolbar">
       <v-toolbar-title style="max-width: 300px" class="ml-0">
-        <a onclick="window.location.replace('/');">
+        <a onclick="window.location.replace('/users');">
           <v-img src="/images/logo.png" width="150"></v-img>
         </a>
       </v-toolbar-title>
